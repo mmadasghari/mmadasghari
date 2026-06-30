@@ -66,14 +66,6 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mmadasghari&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
@@ -82,15 +74,21 @@
 
 ---
 
-# 🚀 Featured Project
+## 🚀 Featured Project
 
-<p align="center">
+### 🌸 Iris Flower Classification using Machine Learning
 
-<a href="https://github.com/mmadasghari/Iris-Classification-ML">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mmadasghari&repo=Iris-Classification-ML&theme=tokyonight&hide_border=true"/>
-</a>
+A beginner-friendly Machine Learning project built with Python, Scikit-learn, Pandas, and NumPy.
 
-</p>
+🔗 Repository:  
+https://github.com/mmadasghari/Iris-Classification-ML
+
+⭐ Features:
+- Data preprocessing
+- Model training
+- Accuracy evaluation
+- Clean project structure
+- Well-documented README
 
 ---
 
