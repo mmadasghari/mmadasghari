@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋, I'm Mohammad Asghari
 
-<!--
-**mmadasghari/mmadasghari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Software Engineering Student
 
-Here are some ideas to get you started:
+💻 Passionate about:
+- Python
+- Machine Learning
+- Artificial Intelligence
+- Data Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning:
+- Scikit-learn
+- Pandas
+- NumPy
+- Git & GitHub
+
+🚀 Featured Project:
+- Iris Flower Classification using Logistic Regression
+
+📫 Reach me:
+- GitHub: https://github.com/mmadasghari
+
+⭐ Thanks for visiting my profile!
