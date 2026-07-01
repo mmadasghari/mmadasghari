@@ -22,19 +22,28 @@
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-🎓 Final-year Software Engineering Student
+```python
+class Mohammad:
 
-💻 Passionate about Python Programming
+    name = "Mohammad Asghari"
 
-🤖 Interested in Machine Learning & Artificial Intelligence
+    education = "Software Engineering"
 
-📚 Currently learning Scikit-learn, Pandas and NumPy
+    language = "Python"
 
-🌱 Learning Git & GitHub Best Practices
+    interest = [
+        "Machine Learning",
+        "Artificial Intelligence",
+        "Data Science"
+    ]
 
-🎯 Building Practical Machine Learning Projects
+    currently_learning = [
+        "Scikit-learn",
+        "Pandas",
+        "NumPy"
+    ]
 
 ---
 
