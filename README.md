@@ -21,10 +21,10 @@
 </div>
 
 ---
-
 ## 🚀 About Me
 
-```python
+python
+
 class Mohammad:
 
     name = "Mohammad Asghari"
@@ -44,7 +44,6 @@ class Mohammad:
         "Pandas",
         "NumPy"
     ]
-
 ---
 
 # 💻 Tech Stack
