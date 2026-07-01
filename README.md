@@ -127,3 +127,21 @@ https://github.com/mmadasghari/Iris-Classification-ML
 <p align="center">
   <img src="https://raw.githubusercontent.com/mmadasghari/mmadasghari/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
+
+⭐ Thanks for visiting my profile! ⭐
+
+</div>
+<p align="center">
+
+<img src="https://img.shields.io/badge/Open%20to-Learning-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Made%20with-Python-yellow?style=for-the-badge&logo=python"/>
+
+<img src="https://img.shields.io/badge/Machine-Learning-red?style=for-the-badge"/>
+
+</p>
