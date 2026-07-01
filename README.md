@@ -23,8 +23,6 @@
 ---
 ## 🚀 About Me
 
-python
-
 class Mohammad:
 
     name = "Mohammad Asghari"
